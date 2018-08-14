@@ -4,10 +4,6 @@
         "source": "/Users/XBACK/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0-rc01.aar/59e415468bf25a56e0b6a11a04a8dea7/res/layout/abc_screen_simple.xml"
     },
     {
-        "merged": "/Users/XBACK/Documents/trialhendy/tugas/app/build/intermediates/res/merged/debug/layout_design_layout_snackbar_include.xml.flat",
-        "source": "/Users/XBACK/.gradle/caches/transforms-1/files-1.1/design-23.1.1.aar/66fd8d7af2bb97888df56f1ed7ecf260/res/layout/design_layout_snackbar_include.xml"
-    },
-    {
         "merged": "/Users/XBACK/Documents/trialhendy/tugas/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_textfield_search_activated_mtrl_alpha.9.png.flat",
         "source": "/Users/XBACK/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0-rc01.aar/59e415468bf25a56e0b6a11a04a8dea7/res/drawable-xhdpi-v4/abc_textfield_search_activated_mtrl_alpha.9.png"
     },
@@ -54,6 +50,10 @@
     {
         "merged": "/Users/XBACK/Documents/trialhendy/tugas/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_launcher_background.png.flat",
         "source": "/Users/XBACK/Documents/trialhendy/tugas/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/Users/XBACK/Documents/trialhendy/tugas/app/build/intermediates/res/merged/debug/menu_menu_item.xml.flat",
+        "source": "/Users/XBACK/Documents/trialhendy/tugas/app/src/main/res/menu/menu_item.xml"
     },
     {
         "merged": "/Users/XBACK/Documents/trialhendy/tugas/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_ic_star_black_48dp.png.flat",
@@ -244,12 +244,12 @@
         "source": "/Users/XBACK/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0-rc01.aar/59e415468bf25a56e0b6a11a04a8dea7/res/color/abc_tint_edittext.xml"
     },
     {
-        "merged": "/Users/XBACK/Documents/trialhendy/tugas/app/build/intermediates/res/merged/debug/anim_design_snackbar_out.xml.flat",
-        "source": "/Users/XBACK/.gradle/caches/transforms-1/files-1.1/design-23.1.1.aar/66fd8d7af2bb97888df56f1ed7ecf260/res/anim/design_snackbar_out.xml"
-    },
-    {
         "merged": "/Users/XBACK/Documents/trialhendy/tugas/app/build/intermediates/res/merged/debug/layout-v26_abc_screen_toolbar.xml.flat",
         "source": "/Users/XBACK/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0-rc01.aar/59e415468bf25a56e0b6a11a04a8dea7/res/layout-v26/abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "/Users/XBACK/Documents/trialhendy/tugas/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_search_white.png.flat",
+        "source": "/Users/XBACK/Documents/trialhendy/tugas/app/build/generated/res/pngs/debug/drawable-hdpi/ic_search_white.png"
     },
     {
         "merged": "/Users/XBACK/Documents/trialhendy/tugas/app/build/intermediates/res/merged/debug/drawable_abc_textfield_search_material.xml.flat",
@@ -332,6 +332,10 @@
         "source": "/Users/XBACK/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0-rc01.aar/59e415468bf25a56e0b6a11a04a8dea7/res/color/switch_thumb_material_light.xml"
     },
     {
+        "merged": "/Users/XBACK/Documents/trialhendy/tugas/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_search_white.png.flat",
+        "source": "/Users/XBACK/Documents/trialhendy/tugas/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_search_white.png"
+    },
+    {
         "merged": "/Users/XBACK/Documents/trialhendy/tugas/app/build/intermediates/res/merged/debug/color_abc_primary_text_disable_only_material_light.xml.flat",
         "source": "/Users/XBACK/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0-rc01.aar/59e415468bf25a56e0b6a11a04a8dea7/res/color/abc_primary_text_disable_only_material_light.xml"
     },
@@ -408,10 +412,6 @@
         "source": "/Users/XBACK/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0-rc01.aar/59e415468bf25a56e0b6a11a04a8dea7/res/drawable/abc_btn_check_material.xml"
     },
     {
-        "merged": "/Users/XBACK/Documents/trialhendy/tugas/app/build/intermediates/res/merged/debug/drawable_design_snackbar_background.xml.flat",
-        "source": "/Users/XBACK/.gradle/caches/transforms-1/files-1.1/design-23.1.1.aar/66fd8d7af2bb97888df56f1ed7ecf260/res/drawable/design_snackbar_background.xml"
-    },
-    {
         "merged": "/Users/XBACK/Documents/trialhendy/tugas/app/build/intermediates/res/merged/debug/color-v23_abc_color_highlight_material.xml.flat",
         "source": "/Users/XBACK/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0-rc01.aar/59e415468bf25a56e0b6a11a04a8dea7/res/color-v23/abc_color_highlight_material.xml"
     },
@@ -434,10 +434,6 @@
     {
         "merged": "/Users/XBACK/Documents/trialhendy/tugas/app/build/intermediates/res/merged/debug/anim_abc_shrink_fade_out_from_bottom.xml.flat",
         "source": "/Users/XBACK/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0-rc01.aar/59e415468bf25a56e0b6a11a04a8dea7/res/anim/abc_shrink_fade_out_from_bottom.xml"
-    },
-    {
-        "merged": "/Users/XBACK/Documents/trialhendy/tugas/app/build/intermediates/res/merged/debug/layout-sw600dp_design_layout_snackbar.xml.flat",
-        "source": "/Users/XBACK/.gradle/caches/transforms-1/files-1.1/design-23.1.1.aar/66fd8d7af2bb97888df56f1ed7ecf260/res/layout-sw600dp/design_layout_snackbar.xml"
     },
     {
         "merged": "/Users/XBACK/Documents/trialhendy/tugas/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_notify_panel_notification_icon_bg.png.flat",
@@ -558,10 +554,6 @@
     {
         "merged": "/Users/XBACK/Documents/trialhendy/tugas/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_ic_menu_selectall_mtrl_alpha.png.flat",
         "source": "/Users/XBACK/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0-rc01.aar/59e415468bf25a56e0b6a11a04a8dea7/res/drawable-xhdpi-v4/abc_ic_menu_selectall_mtrl_alpha.png"
-    },
-    {
-        "merged": "/Users/XBACK/Documents/trialhendy/tugas/app/build/intermediates/res/merged/debug/layout_design_navigation_item_header.xml.flat",
-        "source": "/Users/XBACK/.gradle/caches/transforms-1/files-1.1/design-23.1.1.aar/66fd8d7af2bb97888df56f1ed7ecf260/res/layout/design_navigation_item_header.xml"
     },
     {
         "merged": "/Users/XBACK/Documents/trialhendy/tugas/app/build/intermediates/res/merged/debug/drawable_abc_seekbar_track_material.xml.flat",
@@ -688,16 +680,8 @@
         "source": "/Users/XBACK/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0-rc01.aar/59e415468bf25a56e0b6a11a04a8dea7/res/drawable/abc_seekbar_tick_mark_material.xml"
     },
     {
-        "merged": "/Users/XBACK/Documents/trialhendy/tugas/app/build/intermediates/res/merged/debug/layout_design_layout_tab_icon.xml.flat",
-        "source": "/Users/XBACK/.gradle/caches/transforms-1/files-1.1/design-23.1.1.aar/66fd8d7af2bb97888df56f1ed7ecf260/res/layout/design_layout_tab_icon.xml"
-    },
-    {
         "merged": "/Users/XBACK/Documents/trialhendy/tugas/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_action_action_search.png.flat",
         "source": "/Users/XBACK/.gradle/caches/transforms-1/files-1.1/materialsearchview-1.4.0.aar/181d3ffa9f9d5755708b2545ab5b0b8a/res/drawable-xxhdpi/ic_action_action_search.png"
-    },
-    {
-        "merged": "/Users/XBACK/Documents/trialhendy/tugas/app/build/intermediates/res/merged/debug/layout_design_layout_tab_text.xml.flat",
-        "source": "/Users/XBACK/.gradle/caches/transforms-1/files-1.1/design-23.1.1.aar/66fd8d7af2bb97888df56f1ed7ecf260/res/layout/design_layout_tab_text.xml"
     },
     {
         "merged": "/Users/XBACK/Documents/trialhendy/tugas/app/build/intermediates/res/merged/debug/drawable-v21_abc_list_divider_material.xml.flat",
@@ -710,10 +694,6 @@
     {
         "merged": "/Users/XBACK/Documents/trialhendy/tugas/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_notification_bg_low_normal.9.png.flat",
         "source": "/Users/XBACK/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0-rc01.aar/e19c8c0c66aa851c48a59f9e8641eb1b/res/drawable-xhdpi-v4/notification_bg_low_normal.9.png"
-    },
-    {
-        "merged": "/Users/XBACK/Documents/trialhendy/tugas/app/build/intermediates/res/merged/debug/layout_design_navigation_menu_item.xml.flat",
-        "source": "/Users/XBACK/.gradle/caches/transforms-1/files-1.1/design-23.1.1.aar/66fd8d7af2bb97888df56f1ed7ecf260/res/layout/design_navigation_menu_item.xml"
     },
     {
         "merged": "/Users/XBACK/Documents/trialhendy/tugas/app/build/intermediates/res/merged/debug/drawable_abc_vector_test.xml.flat",
@@ -738,10 +718,6 @@
     {
         "merged": "/Users/XBACK/Documents/trialhendy/tugas/app/build/intermediates/res/merged/debug/drawable_abc_btn_default_mtrl_shape.xml.flat",
         "source": "/Users/XBACK/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0-rc01.aar/59e415468bf25a56e0b6a11a04a8dea7/res/drawable/abc_btn_default_mtrl_shape.xml"
-    },
-    {
-        "merged": "/Users/XBACK/Documents/trialhendy/tugas/app/build/intermediates/res/merged/debug/anim_design_snackbar_in.xml.flat",
-        "source": "/Users/XBACK/.gradle/caches/transforms-1/files-1.1/design-23.1.1.aar/66fd8d7af2bb97888df56f1ed7ecf260/res/anim/design_snackbar_in.xml"
     },
     {
         "merged": "/Users/XBACK/Documents/trialhendy/tugas/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_list_pressed_holo_light.9.png.flat",
@@ -924,6 +900,10 @@
         "source": "/Users/XBACK/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0-rc01.aar/59e415468bf25a56e0b6a11a04a8dea7/res/drawable-xhdpi-v4/abc_tab_indicator_mtrl_alpha.9.png"
     },
     {
+        "merged": "/Users/XBACK/Documents/trialhendy/tugas/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_ic_search_white.xml.flat",
+        "source": "/Users/XBACK/Documents/trialhendy/tugas/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_search_white.xml"
+    },
+    {
         "merged": "/Users/XBACK/Documents/trialhendy/tugas/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_btn_radio_to_on_mtrl_015.png.flat",
         "source": "/Users/XBACK/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0-rc01.aar/59e415468bf25a56e0b6a11a04a8dea7/res/drawable-mdpi-v4/abc_btn_radio_to_on_mtrl_015.png"
     },
@@ -1036,10 +1016,6 @@
         "source": "/Users/XBACK/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0-rc01.aar/59e415468bf25a56e0b6a11a04a8dea7/res/drawable-hdpi-v4/abc_cab_background_top_mtrl_alpha.9.png"
     },
     {
-        "merged": "/Users/XBACK/Documents/trialhendy/tugas/app/build/intermediates/res/merged/debug/drawable_design_fab_background.xml.flat",
-        "source": "/Users/XBACK/.gradle/caches/transforms-1/files-1.1/design-23.1.1.aar/66fd8d7af2bb97888df56f1ed7ecf260/res/drawable/design_fab_background.xml"
-    },
-    {
         "merged": "/Users/XBACK/Documents/trialhendy/tugas/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_text_select_handle_right_mtrl_dark.png.flat",
         "source": "/Users/XBACK/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0-rc01.aar/59e415468bf25a56e0b6a11a04a8dea7/res/drawable-xxhdpi-v4/abc_text_select_handle_right_mtrl_dark.png"
     },
@@ -1100,10 +1076,6 @@
         "source": "/Users/XBACK/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0-rc01.aar/59e415468bf25a56e0b6a11a04a8dea7/res/layout/abc_popup_menu_header_item_layout.xml"
     },
     {
-        "merged": "/Users/XBACK/Documents/trialhendy/tugas/app/build/intermediates/res/merged/debug/layout_design_navigation_menu.xml.flat",
-        "source": "/Users/XBACK/.gradle/caches/transforms-1/files-1.1/design-23.1.1.aar/66fd8d7af2bb97888df56f1ed7ecf260/res/layout/design_navigation_menu.xml"
-    },
-    {
         "merged": "/Users/XBACK/Documents/trialhendy/tugas/app/build/intermediates/res/merged/debug/drawable_abc_list_selector_holo_dark.xml.flat",
         "source": "/Users/XBACK/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0-rc01.aar/59e415468bf25a56e0b6a11a04a8dea7/res/drawable/abc_list_selector_holo_dark.xml"
     },
@@ -1144,8 +1116,8 @@
         "source": "/Users/XBACK/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0-rc01.aar/e19c8c0c66aa851c48a59f9e8641eb1b/res/drawable/notification_bg.xml"
     },
     {
-        "merged": "/Users/XBACK/Documents/trialhendy/tugas/app/build/intermediates/res/merged/debug/layout_design_layout_snackbar.xml.flat",
-        "source": "/Users/XBACK/.gradle/caches/transforms-1/files-1.1/design-23.1.1.aar/66fd8d7af2bb97888df56f1ed7ecf260/res/layout/design_layout_snackbar.xml"
+        "merged": "/Users/XBACK/Documents/trialhendy/tugas/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_search_white.png.flat",
+        "source": "/Users/XBACK/Documents/trialhendy/tugas/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_search_white.png"
     },
     {
         "merged": "/Users/XBACK/Documents/trialhendy/tugas/app/build/intermediates/res/merged/debug/layout_abc_list_menu_item_icon.xml.flat",
@@ -1306,10 +1278,6 @@
     {
         "merged": "/Users/XBACK/Documents/trialhendy/tugas/app/build/intermediates/res/merged/debug/drawable-ldrtl-xhdpi-v17_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
         "source": "/Users/XBACK/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0-rc01.aar/59e415468bf25a56e0b6a11a04a8dea7/res/drawable-ldrtl-xhdpi-v17/abc_ic_menu_copy_mtrl_am_alpha.png"
-    },
-    {
-        "merged": "/Users/XBACK/Documents/trialhendy/tugas/app/build/intermediates/res/merged/debug/layout_design_navigation_item_subheader.xml.flat",
-        "source": "/Users/XBACK/.gradle/caches/transforms-1/files-1.1/design-23.1.1.aar/66fd8d7af2bb97888df56f1ed7ecf260/res/layout/design_navigation_item_subheader.xml"
     },
     {
         "merged": "/Users/XBACK/Documents/trialhendy/tugas/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher_round.png.flat",
@@ -1616,10 +1584,6 @@
         "source": "/Users/XBACK/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0-rc01.aar/e19c8c0c66aa851c48a59f9e8641eb1b/res/drawable-hdpi-v4/notify_panel_notification_icon_bg.png"
     },
     {
-        "merged": "/Users/XBACK/Documents/trialhendy/tugas/app/build/intermediates/res/merged/debug/layout_design_navigation_item_separator.xml.flat",
-        "source": "/Users/XBACK/.gradle/caches/transforms-1/files-1.1/design-23.1.1.aar/66fd8d7af2bb97888df56f1ed7ecf260/res/layout/design_navigation_item_separator.xml"
-    },
-    {
         "merged": "/Users/XBACK/Documents/trialhendy/tugas/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_abc_scrubber_control_to_pressed_mtrl_005.png.flat",
         "source": "/Users/XBACK/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0-rc01.aar/59e415468bf25a56e0b6a11a04a8dea7/res/drawable-xxxhdpi-v4/abc_scrubber_control_to_pressed_mtrl_005.png"
     },
@@ -1634,10 +1598,6 @@
     {
         "merged": "/Users/XBACK/Documents/trialhendy/tugas/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_action_action_search.png.flat",
         "source": "/Users/XBACK/.gradle/caches/transforms-1/files-1.1/materialsearchview-1.4.0.aar/181d3ffa9f9d5755708b2545ab5b0b8a/res/drawable-xhdpi/ic_action_action_search.png"
-    },
-    {
-        "merged": "/Users/XBACK/Documents/trialhendy/tugas/app/build/intermediates/res/merged/debug/anim_design_fab_in.xml.flat",
-        "source": "/Users/XBACK/.gradle/caches/transforms-1/files-1.1/design-23.1.1.aar/66fd8d7af2bb97888df56f1ed7ecf260/res/anim/design_fab_in.xml"
     },
     {
         "merged": "/Users/XBACK/Documents/trialhendy/tugas/app/build/intermediates/res/merged/debug/layout_notification_template_icon_group.xml.flat",
@@ -1684,16 +1644,8 @@
         "source": "/Users/XBACK/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0-rc01.aar/59e415468bf25a56e0b6a11a04a8dea7/res/layout/abc_screen_simple_overlay_action_mode.xml"
     },
     {
-        "merged": "/Users/XBACK/Documents/trialhendy/tugas/app/build/intermediates/res/merged/debug/anim_design_fab_out.xml.flat",
-        "source": "/Users/XBACK/.gradle/caches/transforms-1/files-1.1/design-23.1.1.aar/66fd8d7af2bb97888df56f1ed7ecf260/res/anim/design_fab_out.xml"
-    },
-    {
         "merged": "/Users/XBACK/Documents/trialhendy/tugas/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_action_voice_search.png.flat",
         "source": "/Users/XBACK/.gradle/caches/transforms-1/files-1.1/materialsearchview-1.4.0.aar/181d3ffa9f9d5755708b2545ab5b0b8a/res/drawable-xxxhdpi/ic_action_voice_search.png"
-    },
-    {
-        "merged": "/Users/XBACK/Documents/trialhendy/tugas/app/build/intermediates/res/merged/debug/layout_design_navigation_item.xml.flat",
-        "source": "/Users/XBACK/.gradle/caches/transforms-1/files-1.1/design-23.1.1.aar/66fd8d7af2bb97888df56f1ed7ecf260/res/layout/design_navigation_item.xml"
     },
     {
         "merged": "/Users/XBACK/Documents/trialhendy/tugas/app/build/intermediates/res/merged/debug/color_abc_background_cache_hint_selector_material_dark.xml.flat",
@@ -1780,10 +1732,6 @@
         "source": "/Users/XBACK/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0-rc01.aar/59e415468bf25a56e0b6a11a04a8dea7/res/layout/abc_screen_content_include.xml"
     },
     {
-        "merged": "/Users/XBACK/Documents/trialhendy/tugas/app/build/intermediates/res/merged/debug/layout_design_menu_item_action_area.xml.flat",
-        "source": "/Users/XBACK/.gradle/caches/transforms-1/files-1.1/design-23.1.1.aar/66fd8d7af2bb97888df56f1ed7ecf260/res/layout/design_menu_item_action_area.xml"
-    },
-    {
         "merged": "/Users/XBACK/Documents/trialhendy/tugas/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_btn_switch_to_on_mtrl_00012.9.png.flat",
         "source": "/Users/XBACK/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0-rc01.aar/59e415468bf25a56e0b6a11a04a8dea7/res/drawable-mdpi-v4/abc_btn_switch_to_on_mtrl_00012.9.png"
     },
@@ -1792,12 +1740,24 @@
         "source": "/Users/XBACK/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0-rc01.aar/59e415468bf25a56e0b6a11a04a8dea7/res/drawable-xxhdpi-v4/abc_text_select_handle_middle_mtrl_dark.png"
     },
     {
+        "merged": "/Users/XBACK/Documents/trialhendy/tugas/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_search_white.png.flat",
+        "source": "/Users/XBACK/Documents/trialhendy/tugas/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_search_white.png"
+    },
+    {
         "merged": "/Users/XBACK/Documents/trialhendy/tugas/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_btn_switch_to_on_mtrl_00001.9.png.flat",
         "source": "/Users/XBACK/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0-rc01.aar/59e415468bf25a56e0b6a11a04a8dea7/res/drawable-xhdpi-v4/abc_btn_switch_to_on_mtrl_00001.9.png"
     },
     {
+        "merged": "/Users/XBACK/Documents/trialhendy/tugas/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_search_white.png.flat",
+        "source": "/Users/XBACK/Documents/trialhendy/tugas/app/build/generated/res/pngs/debug/drawable-mdpi/ic_search_white.png"
+    },
+    {
         "merged": "/Users/XBACK/Documents/trialhendy/tugas/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_list_selector_disabled_holo_light.9.png.flat",
         "source": "/Users/XBACK/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0-rc01.aar/59e415468bf25a56e0b6a11a04a8dea7/res/drawable-hdpi-v4/abc_list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "/Users/XBACK/Documents/trialhendy/tugas/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_search_white.png.flat",
+        "source": "/Users/XBACK/Documents/trialhendy/tugas/app/build/generated/res/pngs/debug/drawable-ldpi/ic_search_white.png"
     },
     {
         "merged": "/Users/XBACK/Documents/trialhendy/tugas/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_menu_hardkey_panel_mtrl_mult.9.png.flat",
