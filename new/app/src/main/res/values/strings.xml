@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Ini</string>
+    <string name="judul">judul</string>
+    <string name="nama">Namanya</string>
+    <string name="Judulnya">Judul</string>
+    <string name="title">Judul</string>
 </resources>
