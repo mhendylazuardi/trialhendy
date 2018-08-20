@@ -79,7 +79,7 @@ public class BookAdapter extends RecyclerView.Adapter<BookAdapter.ViewHolder> {
                 String authorNames = "";
                 if (authors!= null)
                 for (int a = 0; a < authors.size(); a++ ){
-                    authorNames += authors.get(a);
+                    authorNames += authors.get(a) + ",";
                 }
                 tvAuthor.setText(authorNames);
                 tvTitle.setText(title == null ? "-" : title);
