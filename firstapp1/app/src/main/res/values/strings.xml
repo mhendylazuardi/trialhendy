@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">FIrstApp</string>
+    <string name="edit_message">Enter a Message</string>
+    <string name="btn_send">Send</string>
 </resources>

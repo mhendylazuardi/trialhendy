@@ -888,6 +888,10 @@
         "source": "/Users/XBACK/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0-rc01.aar/6e34504bae043fd03d23c904c5a07596/res/drawable-xxhdpi-v4/abc_btn_radio_to_on_mtrl_000.png"
     },
     {
+        "merged": "/Users/XBACK/Documents/trialhendy/firstapp1/app/build/intermediates/res/merged/debug/layout_activity_display_message.xml.flat",
+        "source": "/Users/XBACK/Documents/trialhendy/firstapp1/app/src/main/res/layout/activity_display_message.xml"
+    },
+    {
         "merged": "/Users/XBACK/Documents/trialhendy/firstapp1/app/build/intermediates/res/merged/debug/drawable_abc_ic_menu_overflow_material.xml.flat",
         "source": "/Users/XBACK/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0-rc01.aar/6e34504bae043fd03d23c904c5a07596/res/drawable/abc_ic_menu_overflow_material.xml"
     },

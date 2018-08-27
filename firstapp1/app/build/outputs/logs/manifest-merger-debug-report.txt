@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /Users/XBACK/Documents/trialhendy/firstapp1/app/src/main/AndroidManifest.xml:2:1-21:12
-INJECTED from /Users/XBACK/Documents/trialhendy/firstapp1/app/src/main/AndroidManifest.xml:2:1-21:12
-INJECTED from /Users/XBACK/Documents/trialhendy/firstapp1/app/src/main/AndroidManifest.xml:2:1-21:12
-INJECTED from /Users/XBACK/Documents/trialhendy/firstapp1/app/src/main/AndroidManifest.xml:2:1-21:12
+ADDED from /Users/XBACK/Documents/trialhendy/firstapp1/app/src/main/AndroidManifest.xml:2:1-22:12
+INJECTED from /Users/XBACK/Documents/trialhendy/firstapp1/app/src/main/AndroidManifest.xml:2:1-22:12
+INJECTED from /Users/XBACK/Documents/trialhendy/firstapp1/app/src/main/AndroidManifest.xml:2:1-22:12
+INJECTED from /Users/XBACK/Documents/trialhendy/firstapp1/app/src/main/AndroidManifest.xml:2:1-22:12
 MERGED from [com.android.support:appcompat-v7:28.0.0-rc01] /Users/XBACK/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0-rc01.aar/6e34504bae043fd03d23c904c5a07596/AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /Users/XBACK/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/1d5f12f93514682321053bd256c276bd/AndroidManifest.xml:2:1-11:12
 MERGED from [com.android.support:support-fragment:28.0.0-rc01] /Users/XBACK/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0-rc01.aar/77df72b8380b8be65f05e0f655495aba/AndroidManifest.xml:17:1-22:12
@@ -30,25 +30,25 @@ MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/XBACK/.gradle/caches
 MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/XBACK/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/6f421fc870813a00d367ea4da7c41252/AndroidManifest.xml:17:1-22:12
 MERGED from [android.arch.core:runtime:1.1.1] /Users/XBACK/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/dbdc4160b454a039d03de4c25a3eb5fe/AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:interpolator:28.0.0-rc01] /Users/XBACK/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0-rc01.aar/3edf9d8f090a524e83acc23705d82f42/AndroidManifest.xml:17:1-22:12
-INJECTED from /Users/XBACK/Documents/trialhendy/firstapp1/app/src/main/AndroidManifest.xml:2:1-21:12
-INJECTED from /Users/XBACK/Documents/trialhendy/firstapp1/app/src/main/AndroidManifest.xml:2:1-21:12
-INJECTED from /Users/XBACK/Documents/trialhendy/firstapp1/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/XBACK/Documents/trialhendy/firstapp1/app/src/main/AndroidManifest.xml:2:1-22:12
+INJECTED from /Users/XBACK/Documents/trialhendy/firstapp1/app/src/main/AndroidManifest.xml:2:1-22:12
+INJECTED from /Users/XBACK/Documents/trialhendy/firstapp1/app/src/main/AndroidManifest.xml:2:1-22:12
 	package
 		ADDED from /Users/XBACK/Documents/trialhendy/firstapp1/app/src/main/AndroidManifest.xml:3:5-41
 		INJECTED from /Users/XBACK/Documents/trialhendy/firstapp1/app/src/main/AndroidManifest.xml
 		INJECTED from /Users/XBACK/Documents/trialhendy/firstapp1/app/src/main/AndroidManifest.xml
 	android:versionName
 		INJECTED from /Users/XBACK/Documents/trialhendy/firstapp1/app/src/main/AndroidManifest.xml
-		ADDED from /Users/XBACK/Documents/trialhendy/firstapp1/app/src/main/AndroidManifest.xml:2:1-21:12
+		ADDED from /Users/XBACK/Documents/trialhendy/firstapp1/app/src/main/AndroidManifest.xml:2:1-22:12
 		INJECTED from /Users/XBACK/Documents/trialhendy/firstapp1/app/src/main/AndroidManifest.xml
 	android:versionCode
 		INJECTED from /Users/XBACK/Documents/trialhendy/firstapp1/app/src/main/AndroidManifest.xml
-		ADDED from /Users/XBACK/Documents/trialhendy/firstapp1/app/src/main/AndroidManifest.xml:2:1-21:12
+		ADDED from /Users/XBACK/Documents/trialhendy/firstapp1/app/src/main/AndroidManifest.xml:2:1-22:12
 		INJECTED from /Users/XBACK/Documents/trialhendy/firstapp1/app/src/main/AndroidManifest.xml
 	xmlns:android
 		ADDED from /Users/XBACK/Documents/trialhendy/firstapp1/app/src/main/AndroidManifest.xml:2:11-69
 application
-ADDED from /Users/XBACK/Documents/trialhendy/firstapp1/app/src/main/AndroidManifest.xml:5:5-19:19
+ADDED from /Users/XBACK/Documents/trialhendy/firstapp1/app/src/main/AndroidManifest.xml:5:5-20:19
 MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /Users/XBACK/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/1d5f12f93514682321053bd256c276bd/AndroidManifest.xml:9:5-20
 MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /Users/XBACK/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/1d5f12f93514682321053bd256c276bd/AndroidManifest.xml:9:5-20
 MERGED from [com.android.support:support-compat:28.0.0-rc01] /Users/XBACK/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0-rc01.aar/c22cb5960aaa988a9f6439092f5401c4/AndroidManifest.xml:22:5-94
@@ -83,6 +83,10 @@ category#android.intent.category.LAUNCHER
 ADDED from /Users/XBACK/Documents/trialhendy/firstapp1/app/src/main/AndroidManifest.xml:16:17-77
 	android:name
 		ADDED from /Users/XBACK/Documents/trialhendy/firstapp1/app/src/main/AndroidManifest.xml:16:27-74
+activity#com.example.xback.firstapp.DisplayMessageActivity
+ADDED from /Users/XBACK/Documents/trialhendy/firstapp1/app/src/main/AndroidManifest.xml:19:9-69
+	android:name
+		ADDED from /Users/XBACK/Documents/trialhendy/firstapp1/app/src/main/AndroidManifest.xml:19:19-57
 uses-sdk
 INJECTED from /Users/XBACK/Documents/trialhendy/firstapp1/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from /Users/XBACK/Documents/trialhendy/firstapp1/app/src/main/AndroidManifest.xml
