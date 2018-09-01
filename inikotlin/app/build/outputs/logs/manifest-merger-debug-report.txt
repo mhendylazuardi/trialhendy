@@ -1,0 +1,116 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/XBACK/Documents/trialhendy/inikotlin/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/XBACK/Documents/trialhendy/inikotlin/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/XBACK/Documents/trialhendy/inikotlin/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/XBACK/Documents/trialhendy/inikotlin/app/src/main/AndroidManifest.xml:2:1-21:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/XBACK/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/6a6a471d509efe95213be1c1230efb70/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/XBACK/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/135abb41e63e3e30ece8ffad96546f4c/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /Users/XBACK/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/a9ef96d15377aedea647e6ad9711362c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.bumptech.glide:glide:4.8.0] /Users/XBACK/.gradle/caches/transforms-1/files-1.1/glide-4.8.0.aar/a08b56f4d0f34cbbc7ad1b4788f90def/AndroidManifest.xml:2:1-12:12
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/XBACK/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/ab7f40a908583b879b591883f16ff538/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/XBACK/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/622ee7f1106b6edd1abc4d4b4210e38b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/XBACK/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/43ccb2c1d53df11c5066a25f4675d14b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/XBACK/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/8b34a82af3f77e8858fe6e6838407ada/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/XBACK/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/7d894cf6a0ffdf71c75bedbef6018928/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] /Users/XBACK/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/f65c99fd09b7647902b7da64cf40d8f9/AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.8.0] /Users/XBACK/.gradle/caches/transforms-1/files-1.1/gifdecoder-4.8.0.aar/b0a725425c4a32602aec63edd0695706/AndroidManifest.xml:2:1-11:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/XBACK/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/9ac438f770517be763ee1aae20d40dab/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/XBACK/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/07bff8b78726af689af0118f6923b5bf/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/XBACK/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/138c108ccfe9c3ccc49bab5637ef4dc6/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] /Users/XBACK/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/380a052a235447c9f8ab407f4951aea7/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/XBACK/Documents/trialhendy/inikotlin/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/XBACK/Documents/trialhendy/inikotlin/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/XBACK/Documents/trialhendy/inikotlin/app/src/main/AndroidManifest.xml:2:1-21:12
+	package
+		ADDED from /Users/XBACK/Documents/trialhendy/inikotlin/app/src/main/AndroidManifest.xml:3:5-42
+		INJECTED from /Users/XBACK/Documents/trialhendy/inikotlin/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/XBACK/Documents/trialhendy/inikotlin/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/XBACK/Documents/trialhendy/inikotlin/app/src/main/AndroidManifest.xml
+		ADDED from /Users/XBACK/Documents/trialhendy/inikotlin/app/src/main/AndroidManifest.xml:2:1-21:12
+		INJECTED from /Users/XBACK/Documents/trialhendy/inikotlin/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/XBACK/Documents/trialhendy/inikotlin/app/src/main/AndroidManifest.xml
+		ADDED from /Users/XBACK/Documents/trialhendy/inikotlin/app/src/main/AndroidManifest.xml:2:1-21:12
+		INJECTED from /Users/XBACK/Documents/trialhendy/inikotlin/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/XBACK/Documents/trialhendy/inikotlin/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /Users/XBACK/Documents/trialhendy/inikotlin/app/src/main/AndroidManifest.xml:5:5-19:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/XBACK/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/135abb41e63e3e30ece8ffad96546f4c/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/XBACK/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/135abb41e63e3e30ece8ffad96546f4c/AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:glide:4.8.0] /Users/XBACK/.gradle/caches/transforms-1/files-1.1/glide-4.8.0.aar/a08b56f4d0f34cbbc7ad1b4788f90def/AndroidManifest.xml:10:5-20
+MERGED from [com.github.bumptech.glide:glide:4.8.0] /Users/XBACK/.gradle/caches/transforms-1/files-1.1/glide-4.8.0.aar/a08b56f4d0f34cbbc7ad1b4788f90def/AndroidManifest.xml:10:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.8.0] /Users/XBACK/.gradle/caches/transforms-1/files-1.1/gifdecoder-4.8.0.aar/b0a725425c4a32602aec63edd0695706/AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.8.0] /Users/XBACK/.gradle/caches/transforms-1/files-1.1/gifdecoder-4.8.0.aar/b0a725425c4a32602aec63edd0695706/AndroidManifest.xml:9:5-20
+	android:supportsRtl
+		ADDED from /Users/XBACK/Documents/trialhendy/inikotlin/app/src/main/AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from /Users/XBACK/Documents/trialhendy/inikotlin/app/src/main/AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from /Users/XBACK/Documents/trialhendy/inikotlin/app/src/main/AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from /Users/XBACK/Documents/trialhendy/inikotlin/app/src/main/AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from /Users/XBACK/Documents/trialhendy/inikotlin/app/src/main/AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from /Users/XBACK/Documents/trialhendy/inikotlin/app/src/main/AndroidManifest.xml:11:9-40
+activity#com.example.xback.inikotlin.MainActivity
+ADDED from /Users/XBACK/Documents/trialhendy/inikotlin/app/src/main/AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from /Users/XBACK/Documents/trialhendy/inikotlin/app/src/main/AndroidManifest.xml:12:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/XBACK/Documents/trialhendy/inikotlin/app/src/main/AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from /Users/XBACK/Documents/trialhendy/inikotlin/app/src/main/AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from /Users/XBACK/Documents/trialhendy/inikotlin/app/src/main/AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/XBACK/Documents/trialhendy/inikotlin/app/src/main/AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from /Users/XBACK/Documents/trialhendy/inikotlin/app/src/main/AndroidManifest.xml:16:27-74
+uses-sdk
+INJECTED from /Users/XBACK/Documents/trialhendy/inikotlin/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/XBACK/Documents/trialhendy/inikotlin/app/src/main/AndroidManifest.xml
+INJECTED from /Users/XBACK/Documents/trialhendy/inikotlin/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/XBACK/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/6a6a471d509efe95213be1c1230efb70/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/XBACK/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/6a6a471d509efe95213be1c1230efb70/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/XBACK/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/135abb41e63e3e30ece8ffad96546f4c/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/XBACK/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/135abb41e63e3e30ece8ffad96546f4c/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /Users/XBACK/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/a9ef96d15377aedea647e6ad9711362c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /Users/XBACK/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/a9ef96d15377aedea647e6ad9711362c/AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:glide:4.8.0] /Users/XBACK/.gradle/caches/transforms-1/files-1.1/glide-4.8.0.aar/a08b56f4d0f34cbbc7ad1b4788f90def/AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.bumptech.glide:glide:4.8.0] /Users/XBACK/.gradle/caches/transforms-1/files-1.1/glide-4.8.0.aar/a08b56f4d0f34cbbc7ad1b4788f90def/AndroidManifest.xml:6:5-8:41
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/XBACK/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/ab7f40a908583b879b591883f16ff538/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/XBACK/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/ab7f40a908583b879b591883f16ff538/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/XBACK/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/622ee7f1106b6edd1abc4d4b4210e38b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/XBACK/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/622ee7f1106b6edd1abc4d4b4210e38b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/XBACK/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/43ccb2c1d53df11c5066a25f4675d14b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/XBACK/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/43ccb2c1d53df11c5066a25f4675d14b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/XBACK/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/8b34a82af3f77e8858fe6e6838407ada/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/XBACK/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/8b34a82af3f77e8858fe6e6838407ada/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/XBACK/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/7d894cf6a0ffdf71c75bedbef6018928/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/XBACK/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/7d894cf6a0ffdf71c75bedbef6018928/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/XBACK/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/f65c99fd09b7647902b7da64cf40d8f9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/XBACK/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/f65c99fd09b7647902b7da64cf40d8f9/AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:gifdecoder:4.8.0] /Users/XBACK/.gradle/caches/transforms-1/files-1.1/gifdecoder-4.8.0.aar/b0a725425c4a32602aec63edd0695706/AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.8.0] /Users/XBACK/.gradle/caches/transforms-1/files-1.1/gifdecoder-4.8.0.aar/b0a725425c4a32602aec63edd0695706/AndroidManifest.xml:5:5-7:41
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/XBACK/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/9ac438f770517be763ee1aae20d40dab/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/XBACK/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/9ac438f770517be763ee1aae20d40dab/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/XBACK/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/07bff8b78726af689af0118f6923b5bf/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/XBACK/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/07bff8b78726af689af0118f6923b5bf/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/XBACK/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/138c108ccfe9c3ccc49bab5637ef4dc6/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/XBACK/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/138c108ccfe9c3ccc49bab5637ef4dc6/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/XBACK/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/380a052a235447c9f8ab407f4951aea7/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/XBACK/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/380a052a235447c9f8ab407f4951aea7/AndroidManifest.xml:20:5-44
+INJECTED from /Users/XBACK/Documents/trialhendy/inikotlin/app/src/main/AndroidManifest.xml
+INJECTED from /Users/XBACK/Documents/trialhendy/inikotlin/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/XBACK/Documents/trialhendy/inikotlin/app/src/main/AndroidManifest.xml
+		ADDED from /Users/XBACK/Documents/trialhendy/inikotlin/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/XBACK/Documents/trialhendy/inikotlin/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/XBACK/Documents/trialhendy/inikotlin/app/src/main/AndroidManifest.xml
+		ADDED from /Users/XBACK/Documents/trialhendy/inikotlin/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/XBACK/Documents/trialhendy/inikotlin/app/src/main/AndroidManifest.xml
