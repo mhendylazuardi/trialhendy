@@ -1,0 +1,152 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h2>Rupiah<h2>
+
+<input id="valueRupiah" type="text"></input>
+<input type="submit" onclick="output();" onsubmit="setTimeout(function(){window.location.reload();},10)">
+<p id="result1"></p>
+<p id="result2"></p>
+<p id="result3"></p>
+<p id="result4"></p>
+<p id="result5"></p>
+<p id="result6"></p>
+<p id="result7"></p>
+<p id="result8"></p>
+<p id="result9"></p>
+<p id="result10"></p>
+
+<script>
+var x1 = 100000;
+var x2 = 50000;
+var x3 = 20000;
+var x4 = 10000;
+var x5 = 5000;
+var x6 = 2000;
+var x7 = 1000;
+var x8 = 500;
+var x9 = 200;
+var x10 = 100;
+
+var sisa1, sisa2, sisa3, sisa4, sisa5, sisa6, sisa7, sisa8, sisa9, sisa10;
+
+function output(){
+		
+    var value1 = document.getElementById('valueRupiah').value;
+    if(value1 >= x1){
+    	sisa1 = value1 % x1;
+    }else{sisa1 = value1;}
+    
+    
+    if(sisa1 >= x2){
+    	sisa2 = sisa1 % x2;
+        
+    }else{sisa2 = sisa1;}
+    
+    if(sisa2 >= x3){
+    	sisa3 = sisa2 % x3;
+    }else{sisa3 = sisa2;}
+    
+    
+    if(sisa3 >= x4){
+    	sisa4 = sisa3 % x4;
+    }else{sisa4 = sisa3;}
+    
+    
+    if(sisa4 >= x5){
+    	sisa5 = sisa4 % x5;
+    }else{sisa5 = sisa4;}
+    
+
+    if(sisa5 >= x6){
+    	sisa6 = sisa5 % x6;
+    }else{sisa6 = sisa5;}
+    
+
+    if(sisa6 >= x7){
+    	sisa7 = sisa6 % x7;
+    }else{sisa7 = sisa6;}
+    
+
+    if(sisa7 >= x8){
+    	sisa8 = sisa7 % x8;
+    }else{sisa8 = sisa7;}
+    
+
+    if(sisa8 >= x9){
+    	sisa9 = sisa8 % x9;        
+    }else{sisa9 = sisa8;}
+
+    if(sisa9 >= x10){
+    	sisa10 = sisa9 / x10;
+    }else{sisa10 = sisa9}
+    
+
+    var seratusRibu     = (value1 - sisa1)/x1;
+    if(seratusRibu){
+        document.getElementById("result1").innerHTML = x1 + " : " + seratusRibu;
+    }
+
+    var limaPuluhRibu   = (sisa1 - sisa2)/x2;
+    if(limaPuluhRibu){
+        document.getElementById("result2").innerHTML = x2 + " : " + limaPuluhRibu; 
+    }
+
+    var duaPuluhRibu   = (sisa2 - sisa3)/x3;
+    if(duaPuluhRibu){
+        document.getElementById("result3").innerHTML = x3 + " : " + duaPuluhRibu; 
+    }
+
+    var sepuluhRibu   = (sisa3 - sisa4)/x4;
+    if(sepuluhRibu){
+        document.getElementById("result4").innerHTML = x4 + " : " + sepuluhRibu; 
+    }
+
+    var limaRibu   = (sisa4 - sisa5)/x5;
+    if(limaRibu){
+        document.getElementById("result5").innerHTML = x5 + " : " + limaRibu; 
+    }
+
+    var duaRibu   = (sisa5 - sisa6)/x6;
+    if(duaRibu){
+        document.getElementById("result6").innerHTML = x6 + " : " + duaRibu; 
+    }
+    
+    var seribu   = (sisa6 - sisa7)/x7;
+    if(seribu){
+        document.getElementById("result7").innerHTML = x7 + " : " + seribu; 
+    }
+
+    var limaRatus   = (sisa7 - sisa8)/x8;
+    if(limaRatus){
+        document.getElementById("result8").innerHTML = x8 + " : " + limaRatus; 
+    }
+
+    var duaRatus   = (sisa8 - sisa9)/x9;
+    if(duaRatus){
+        document.getElementById("result9").innerHTML = x9 + " : " + duaRatus; 
+    }
+
+    if(sisa10){
+        document.getElementById("result10").innerHTML = x10 + " : " + "1"; 
+    }
+
+
+    
+
+    // if(!sisa2){
+    //     var limaPuluhRibu     = (sisa1 - sisa2)/x2;
+    //     document.getElementById("result2").innerHTML = x2 + " : " + limaPuluhRibu; 
+    // }else{null}
+
+    
+    
+    
+
+
+}
+</script>
+
+</body>
+</html>

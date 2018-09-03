@@ -1,0 +1,103 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/XBACK/Documents/trialhendy/calculator/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/XBACK/Documents/trialhendy/calculator/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/XBACK/Documents/trialhendy/calculator/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/XBACK/Documents/trialhendy/calculator/app/src/main/AndroidManifest.xml:2:1-21:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/XBACK/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/c9c4c6c3eec101375c221f56f767a0a8/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /Users/XBACK/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/9f35b5d734a2f9b879aaf765e0be832e/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/XBACK/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/6f0e1c3135150cb78e7e58e587ad6fa4/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/XBACK/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/a617bb4463efa3e9a646ae0d317cd149/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/XBACK/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/abc556245c381f14b886ea426a15024f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/XBACK/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/0abca34388c9ba5312770ca309ab295f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/XBACK/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/e221c490ba7893d7145ea6a6673a5521/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] /Users/XBACK/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/2d3da41405504787ca60f58afd245b70/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/XBACK/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/6e0642aeed913b63b311599c39711fda/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/XBACK/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/0d7d38d4d1997c6f1d51dece00f9b376/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/XBACK/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/36a88086ea36a4c574ab51d8470e9bcb/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] /Users/XBACK/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/a1e24965a424830b63d791082722d6f3/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/XBACK/Documents/trialhendy/calculator/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/XBACK/Documents/trialhendy/calculator/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/XBACK/Documents/trialhendy/calculator/app/src/main/AndroidManifest.xml:2:1-21:12
+	package
+		ADDED from /Users/XBACK/Documents/trialhendy/calculator/app/src/main/AndroidManifest.xml:3:5-38
+		INJECTED from /Users/XBACK/Documents/trialhendy/calculator/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/XBACK/Documents/trialhendy/calculator/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/XBACK/Documents/trialhendy/calculator/app/src/main/AndroidManifest.xml
+		ADDED from /Users/XBACK/Documents/trialhendy/calculator/app/src/main/AndroidManifest.xml:2:1-21:12
+		INJECTED from /Users/XBACK/Documents/trialhendy/calculator/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/XBACK/Documents/trialhendy/calculator/app/src/main/AndroidManifest.xml
+		ADDED from /Users/XBACK/Documents/trialhendy/calculator/app/src/main/AndroidManifest.xml:2:1-21:12
+		INJECTED from /Users/XBACK/Documents/trialhendy/calculator/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/XBACK/Documents/trialhendy/calculator/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /Users/XBACK/Documents/trialhendy/calculator/app/src/main/AndroidManifest.xml:5:5-19:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /Users/XBACK/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/9f35b5d734a2f9b879aaf765e0be832e/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /Users/XBACK/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/9f35b5d734a2f9b879aaf765e0be832e/AndroidManifest.xml:9:5-20
+	android:supportsRtl
+		ADDED from /Users/XBACK/Documents/trialhendy/calculator/app/src/main/AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from /Users/XBACK/Documents/trialhendy/calculator/app/src/main/AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from /Users/XBACK/Documents/trialhendy/calculator/app/src/main/AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from /Users/XBACK/Documents/trialhendy/calculator/app/src/main/AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from /Users/XBACK/Documents/trialhendy/calculator/app/src/main/AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from /Users/XBACK/Documents/trialhendy/calculator/app/src/main/AndroidManifest.xml:11:9-40
+activity#id.myholiday.calculator.MainActivity
+ADDED from /Users/XBACK/Documents/trialhendy/calculator/app/src/main/AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from /Users/XBACK/Documents/trialhendy/calculator/app/src/main/AndroidManifest.xml:12:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/XBACK/Documents/trialhendy/calculator/app/src/main/AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from /Users/XBACK/Documents/trialhendy/calculator/app/src/main/AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from /Users/XBACK/Documents/trialhendy/calculator/app/src/main/AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/XBACK/Documents/trialhendy/calculator/app/src/main/AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from /Users/XBACK/Documents/trialhendy/calculator/app/src/main/AndroidManifest.xml:16:27-74
+uses-sdk
+INJECTED from /Users/XBACK/Documents/trialhendy/calculator/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/XBACK/Documents/trialhendy/calculator/app/src/main/AndroidManifest.xml
+INJECTED from /Users/XBACK/Documents/trialhendy/calculator/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/XBACK/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/c9c4c6c3eec101375c221f56f767a0a8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/XBACK/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/c9c4c6c3eec101375c221f56f767a0a8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /Users/XBACK/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/9f35b5d734a2f9b879aaf765e0be832e/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /Users/XBACK/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/9f35b5d734a2f9b879aaf765e0be832e/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/XBACK/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/6f0e1c3135150cb78e7e58e587ad6fa4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/XBACK/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/6f0e1c3135150cb78e7e58e587ad6fa4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/XBACK/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/a617bb4463efa3e9a646ae0d317cd149/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/XBACK/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/a617bb4463efa3e9a646ae0d317cd149/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/XBACK/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/abc556245c381f14b886ea426a15024f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/XBACK/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/abc556245c381f14b886ea426a15024f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/XBACK/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/0abca34388c9ba5312770ca309ab295f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/XBACK/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/0abca34388c9ba5312770ca309ab295f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/XBACK/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/e221c490ba7893d7145ea6a6673a5521/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/XBACK/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/e221c490ba7893d7145ea6a6673a5521/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/XBACK/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/2d3da41405504787ca60f58afd245b70/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/XBACK/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/2d3da41405504787ca60f58afd245b70/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/XBACK/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/6e0642aeed913b63b311599c39711fda/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/XBACK/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/6e0642aeed913b63b311599c39711fda/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/XBACK/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/0d7d38d4d1997c6f1d51dece00f9b376/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/XBACK/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/0d7d38d4d1997c6f1d51dece00f9b376/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/XBACK/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/36a88086ea36a4c574ab51d8470e9bcb/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/XBACK/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/36a88086ea36a4c574ab51d8470e9bcb/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/XBACK/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/a1e24965a424830b63d791082722d6f3/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/XBACK/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/a1e24965a424830b63d791082722d6f3/AndroidManifest.xml:20:5-44
+INJECTED from /Users/XBACK/Documents/trialhendy/calculator/app/src/main/AndroidManifest.xml
+INJECTED from /Users/XBACK/Documents/trialhendy/calculator/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/XBACK/Documents/trialhendy/calculator/app/src/main/AndroidManifest.xml
+		ADDED from /Users/XBACK/Documents/trialhendy/calculator/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/XBACK/Documents/trialhendy/calculator/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/XBACK/Documents/trialhendy/calculator/app/src/main/AndroidManifest.xml
+		ADDED from /Users/XBACK/Documents/trialhendy/calculator/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/XBACK/Documents/trialhendy/calculator/app/src/main/AndroidManifest.xml

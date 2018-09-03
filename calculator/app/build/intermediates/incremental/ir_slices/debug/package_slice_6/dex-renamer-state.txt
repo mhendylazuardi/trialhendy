@@ -1,0 +1,4 @@
+#Wed Aug 08 01:31:13 WIB 2018
+base.0=/Users/XBACK/Documents/trialhendy/calculator/app/build/intermediates/transforms/dexMerger/debug/6
+path.0=classes.dex
+renamed.0=classes.dex
