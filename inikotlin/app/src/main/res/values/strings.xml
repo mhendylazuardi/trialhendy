@@ -8,7 +8,7 @@
         <item>Manchester United FC</item>
         <item>Chelsea FC</item>
         <item>AC Milan FC</item>
-        <itm>Arsenal FC</itm>
+        <item>Arsenal FC</item>
     </string-array>
     <array name="club_image">
         <item>@drawable/img_barca</item>

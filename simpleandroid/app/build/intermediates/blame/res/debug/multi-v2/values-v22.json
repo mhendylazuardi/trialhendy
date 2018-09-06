@@ -4,7 +4,7 @@
             "outputFile": "/Users/XBACK/Documents/trialhendy/simpleandroid/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v22/values-v22.xml",
             "map": [
                 {
-                    "source": "/Users/XBACK/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0-rc01.aar/59e415468bf25a56e0b6a11a04a8dea7/res/values-v22/values-v22.xml",
+                    "source": "/Users/XBACK/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0-rc01.aar/8e66b01a8a93ce9e75a44d7d0227d02f/res/values-v22/values-v22.xml",
                     "from": {
                         "startLines": "2,3,4,9",
                         "startColumns": "4,4,4,4",
